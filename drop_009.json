@@ -1,0 +1,45 @@
+{
+  "drop_number": 9,
+  "datetime": "2017-10-31T09:00:00Z",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q !ITPb.qbhqo",
+  "title": "Trip Added — Guide to Reading Crumbs",
+  "summary": "Drop #9 is meta in nature. Q announces that a tripcode has been added (a method of verifying a consistent poster identity on anonymous imageboards), warns of coordinated efforts to misdirect readers, and provides guidance on reading the drops. It references a 'broad message and strategy' that requires drops to be read 'necessarily in order.'",
+  "raw_text": "Trip added.\n[C]oordinated effort to misdirect.\nGuide to reading the crumbs necessarily in order to understand the broad message and strategy.\nIf we don't challenge the narrative they'll control the outcome.\n5:5?\nBlack next.\nPrayers are with those affected.\n[operatives].\nUnited.\nFuture proves past.",
+  "themes": ["Tripcode", "Reading Strategy", "Crumbs", "Narrative Control", "Future Proves Past"],
+  "related_drops": [1, 6, 10],
+  "sources": [
+    {"label": "qalerts.app — Drop #9", "url": "https://qalerts.app/?n=9", "note": "Third-party aggregator"},
+    {"label": "Tripcode explanation — 4chan FAQ", "url": "https://www.4chan.org/faq", "note": "Documentation of tripcode system on imageboards"}
+  ],
+  "lines": [
+    {
+      "text": "Trip added.",
+      "fact": "A tripcode on imageboards like 4chan is a hashed password that allows a poster to maintain a verifiable consistent identity without revealing their name. Q's use of tripcodes has been documented and analyzed. The tripcode does not verify who Q is in real life — only that posts share the same password. Tripcodes have been compromised and changed multiple times during Q's posting history.",
+      "theory": "Supporters view the tripcode as proof of a singular, consistent insider. Critics note that tripcodes only verify consistency of password use, not identity, and that the Q tripcode was reset multiple times (sometimes under contested circumstances) on different platforms.",
+      "context": "The Q tripcode evolved across platforms — from 4chan to 8chan to 8kun. Each transition involved community debate about whether the 'new Q' was the same as the 'old Q.'",
+      "questions": "Who controls the tripcode password? How does one verify that the same individual maintained the tripcode throughout all drops?",
+      "confidence": 40,
+      "sources": [
+        {"label": "4chan tripcode documentation", "url": "https://www.4chan.org/faq#tripcode"}
+      ]
+    },
+    {
+      "text": "Future proves past.",
+      "fact": "'Future proves past' became one of the most repeated Q phrases and community mantras. It is not a government, military, or intelligence term. It functions as an unfalsifiability mechanism: any future event can in retrospect be claimed to have been predicted by an earlier drop, regardless of how vague or indirect the original language was.",
+      "theory": "In practice, 'future proves past' allowed community members to retroactively match ambiguous drop language to real-world events after they occurred. This is a form of confirmation bias known as 'hindsight bias' or, in research contexts, 'postdiction' rather than prediction. Vague language that seems specific in hindsight is sometimes called a 'Barnum statement' or 'Nostradamus effect.'",
+      "context": "This technique is well-studied in the context of psychics, horoscopes, and other predictive claims. The key test is whether predictions are specific enough in advance that they could fail — Q's language is frequently ambiguous enough to be matched to many outcomes.",
+      "questions": "What specific prediction, made with sufficient specificity before an event, could not have been retroactively matched to some real-world development? This is the test for genuine predictive value.",
+      "confidence": 10
+    },
+    {
+      "text": "5:5?",
+      "fact": "'5:5' or 'Lima Charlie' is US military radio communication shorthand for 'loud and clear' (5 out of 5 on a signal strength/clarity scale). It is a real military communications term.",
+      "theory": "Q community members interpreted this as Q asking if the message was received clearly. The use of authentic military jargon contributes to the impression of insider military knowledge.",
+      "context": "The use of genuine military or intelligence jargon alongside unverifiable claims is documented by researchers as a credibility-building technique.",
+      "questions": "Is the use of this term evidence of military insider knowledge, or is it widely available public information? The term is discussed in publicly available military communication guides.",
+      "confidence": 85
+    }
+  ]
+}

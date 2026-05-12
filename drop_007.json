@@ -1,0 +1,50 @@
+{
+  "drop_number": 7,
+  "datetime": "2017-10-30T10:00:00Z",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q !ITPb.qbhqo",
+  "title": "SCIF, Keystone & Senate PAC Foundations",
+  "summary": "Drop #7 introduces 'the Keystone' — one of the most debated terms in Q drops — and asks about senators with foundations and PAC money. It also references SCI[F] (Sensitive Compartmented Information Facility) and asks followers to 'apply the keystone' and 'paint the picture.'",
+  "raw_text": "SCI[F].\nApply the Keystone.\nPaint the picture.\nExpand your thinking.\nWhat are the names of the 10 senators with foundations (PAC money)?\nWhy is this relevant?\nWhat is the Keystone?\nWhy is this relevant?",
+  "themes": ["SCIF", "Keystone", "Senate", "Campaign Finance", "PAC", "Foundations"],
+  "related_drops": [2, 8, 9],
+  "sources": [
+    {"label": "qalerts.app — Drop #7", "url": "https://qalerts.app/?n=7", "note": "Third-party aggregator"},
+    {"label": "FEC: PAC and foundation disclosures", "url": "https://www.fec.gov/", "note": "Primary source for campaign finance disclosures"},
+    {"label": "OpenSecrets: Senator fundraising", "url": "https://www.opensecrets.org/", "note": "Non-partisan campaign finance research organization"}
+  ],
+  "lines": [
+    {
+      "text": "SCI[F].",
+      "fact": "A Sensitive Compartmented Information Facility (SCIF) is a real, documented government designation for a secure room or facility used to handle classified information. They are used across the executive branch, congressional offices, and military installations. The bracketing of 'F' in Q's notation is stylistic and unexplained.",
+      "theory": "Q community members speculated the bracket indicates the 'F' is significant — perhaps referencing a specific facility, a specific event, or a code. No authoritative explanation was provided.",
+      "context": "SCIFs are well-documented in public government literature. Congressional members and their staff use them for classified briefings.",
+      "questions": "Why is 'F' bracketed? Is this a specific SCIF reference or general reference to the concept?",
+      "confidence": 80,
+      "sources": [
+        {"label": "DNI: SCIF overview", "url": "https://www.dni.gov/"}
+      ]
+    },
+    {
+      "text": "What is the Keystone?",
+      "fact": "No official government, military, or intelligence designation called 'The Keystone' has been publicly documented. The term is not found in declassified documents or public government communications in the sense Q uses it.",
+      "theory": "Over hundreds of drops, Q community members proposed multiple interpretations: (1) NSA alone, (2) Military Intelligence alone, (3) POTUS + MI + NSA in combination, (4) the Q operation itself, (5) the people/public as the keystone. Q later addressed this but the answer was itself cryptic. No consensus was reached.",
+      "context": "The 'keystone' is an architectural term for the central stone in an arch that locks all other stones in place. The metaphor implies a central element holding a larger structure together.",
+      "questions": "Which interpretation, if any, is correct? How would a researcher verify the intended meaning? The deliberate ambiguity may be intentional.",
+      "confidence": 5
+    },
+    {
+      "text": "What are the names of the 10 senators with foundations (PAC money)?",
+      "fact": "Multiple US senators have associated foundations, PACs, or leadership PACs — this is publicly disclosed and legally permitted. FEC filings and OpenSecrets provide extensive data on this. The claim that exactly '10 senators' have uniquely problematic foundation/PAC arrangements is not substantiated by a specific public document. Senators routinely have both foundations and PACs.",
+      "theory": "Q implies that these foundations represent corrupt entanglements with foreign money or criminal networks. No specific senators are named, and the number '10' is not sourced.",
+      "context": "Campaign finance law in the US permits a wide range of fundraising structures. Many elected officials at federal and state level have affiliated foundations. This is a matter of public record but does not in itself indicate wrongdoing.",
+      "questions": "Which 10 senators? On what basis is the number 10 stated? What specific conduct is alleged?",
+      "confidence": 20,
+      "sources": [
+        {"label": "FEC disclosures", "url": "https://www.fec.gov/"},
+        {"label": "OpenSecrets Senate profiles", "url": "https://www.opensecrets.org/members-of-congress"}
+      ]
+    }
+  ]
+}

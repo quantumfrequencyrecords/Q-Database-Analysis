@@ -1,0 +1,36 @@
+{
+  "drop_number": 8,
+  "datetime": "2017-10-30T14:00:00Z",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q !ITPb.qbhqo",
+  "title": "CLAS 1-99 & Covert Operations",
+  "summary": "Drop #8 is highly cryptic, referencing 'CLAS 1-99' (interpreted as classified designations), a covert operation, and UIW. It asks readers to 'define' CLAS 1-99 and asserts relevance. This drop is among the most difficult to analyze due to its opacity.",
+  "raw_text": "UIW.\nCovert OP by [CLAS 1-99].\nCLAS 1-99.\nDefine [CLAS 1-99].\nWhy is this relevant?\n\n[C]oordinated global attack.\nSnow White.\nSeven Dwarfs.\nWhy is this relevant?\nPray.",
+  "themes": ["Classified Operations", "Intelligence Agencies", "Snow White", "Seven Dwarfs", "Cryptic"],
+  "related_drops": [2, 3, 7, 9],
+  "sources": [
+    {"label": "qalerts.app — Drop #8", "url": "https://qalerts.app/?n=8", "note": "Third-party aggregator"}
+  ],
+  "lines": [
+    {
+      "text": "UIW.",
+      "fact": "UIW has no confirmed public definition in this context. 'UIW' does not correspond to a known public government, military, or intelligence designation. The University of the Incarnate Word uses the abbreviation UIW, which is clearly not relevant. No other verifiable meaning has been documented.",
+      "theory": "Q community members proposed interpretations including 'Unknown Information Warfare', or a signals designation. No authoritative source confirms any interpretation.",
+      "context": "The opacity of abbreviations like UIW creates interpretive freedom for community members, which researchers note increases engagement through collaborative puzzle-solving.",
+      "questions": "What does UIW mean? No answer provided.",
+      "confidence": 3
+    },
+    {
+      "text": "Snow White. Seven Dwarfs.",
+      "fact": "Snow White and the Seven Dwarfs is a 1937 Disney animated film. In a documented 2016 hearing, NSA Director Rogers discussed 'Snow White' as a codename for an NSA supercomputer system — however, this was in a different and technical context. The CIA is documented to have named some computer systems after Disney characters historically.",
+      "theory": "The most common Q community interpretation is that 'Snow White' = a specific CIA computer network/AI system, and the 'Seven Dwarfs' = seven CIA supercomputers. Some documents released under FOIA do show CIA systems named after Disney characters, but not in a way that confirms Q's specific framing.",
+      "context": "The CIA historically used creative codenames for programs. FOIA releases have shown some Disney-related naming. However, connecting this to an active 'Snow White' system matching Q's description has not been documented.",
+      "questions": "What specific CIA or government systems are being referenced? What is the operational relevance?",
+      "confidence": 20,
+      "sources": [
+        {"label": "CIA FOIA reading room", "url": "https://www.cia.gov/readingroom/"}
+      ]
+    }
+  ]
+}

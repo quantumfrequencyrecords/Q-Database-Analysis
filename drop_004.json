@@ -1,0 +1,49 @@
+{
+  "drop_number": 4,
+  "datetime": "2017-10-29T20:00:00Z",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q !ITPb.qbhqo",
+  "title": "Power Comparison & Davos",
+  "summary": "Drop #4 asserts that Trump has more power than figures like Obama, Soros, the Rothschilds, and the Clintons, and claims Soros was 'stunned' at Davos. It also references Saudi Arabia 'taking care of business' and asks why the Las Vegas shooting (Oct 1, 2017) occurred.",
+  "raw_text": "Don't fool yourself into thinking Obama, Soros, Roth's, Clinton's etc. have more power than Trump. SOROS was STUNNED at Davos.\nSaudi Arabia-taking care of business. \nWhy is Soros pushing chaos?\nWhere is Soros?\nWhy is Soros' son taking an active role?\nWhy is SA relevant?\nWhy is Las Vegas relevant?\n\nWhy was the body count higher last night than originally reported?",
+  "themes": ["Power Dynamics", "George Soros", "Rothschild", "Saudi Arabia", "Las Vegas Shooting", "Davos"],
+  "related_drops": [1, 3, 5],
+  "sources": [
+    {
+      "label": "qalerts.app — Drop #4",
+      "url": "https://qalerts.app/?n=4",
+      "note": "Third-party aggregator"
+    },
+    {
+      "label": "Las Vegas shooting — official investigation",
+      "url": "https://www.lvmpd.com/en-us/Documents/1-October-FIT-Report.pdf",
+      "note": "LVMPD Final Investigative Team Report"
+    }
+  ],
+  "lines": [
+    {
+      "text": "Don't fool yourself into thinking Obama, Soros, Roth's, Clinton's etc. have more power than Trump.",
+      "fact": "This is an assertion about relative power that cannot be objectively measured. George Soros, the Rothschild banking family, Barack Obama, and Hillary Clinton are all real public figures with documented wealth, influence, and activities. The claim about relative power compared to Trump is subjective and unverifiable.",
+      "theory": "Q presents Trump as the dominant counter-force to a coalition of alleged globalist actors. This framing inverts the conventional political view where a sitting president might be constrained by powerful private interests. The inclusion of the Rothschild family connects this drop to longstanding antisemitic conspiracy theories, though Q did not explicitly use antisemitic framing.",
+      "context": "The Rothschild family is a prominent European banking dynasty. Their inclusion in lists of shadowy controllers has a centuries-long history rooted in antisemitic conspiracy theories. Researchers including experts at the Anti-Defamation League have documented how Q content frequently recycles older antisemitic tropes in new framing.",
+      "questions": "What is the evidence that these figures operate as a coordinated coalition? What metric is being used to measure 'power'?",
+      "confidence": 10,
+      "sources": [
+        {"label": "ADL: QAnon and Antisemitism", "url": "https://www.adl.org/resources/report/qanon-movement"}
+      ]
+    },
+    {
+      "text": "Why was the body count higher last night than originally reported?",
+      "fact": "The Las Vegas mass shooting occurred on October 1, 2017. Initial casualty reports during breaking news situations are frequently revised as information is confirmed. This is a well-documented phenomenon in emergency reporting. The final confirmed death toll was 60 victims (not including the shooter), with over 400 injured. The shooter, Stephen Paddock, acted alone according to the official FBI investigation. No criminal co-conspirators were identified.",
+      "theory": "Q implies a conspiracy around the Las Vegas shooting, suggesting the body count revision was sinister rather than the result of normal emergency reporting correction. Q community members generated numerous Las Vegas conspiracy theories, none of which were substantiated by evidence.",
+      "context": "The LVMPD released a detailed final report on the investigation. The FBI's investigation found no clear motive or co-conspirators. Body count revisions in the immediate aftermath of mass casualty events are standard due to victim identification processes, patients dying in hospital, and the chaos of initial reporting.",
+      "questions": "What specific evidence would support the implication that the body count was deliberately manipulated, rather than corrected through normal processes?",
+      "confidence": 5,
+      "sources": [
+        {"label": "LVMPD Final Report", "url": "https://www.lvmpd.com/en-us/Documents/1-October-FIT-Report.pdf"},
+        {"label": "FBI Las Vegas Investigation", "url": "https://www.fbi.gov/"}
+      ]
+    }
+  ]
+}

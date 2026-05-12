@@ -1,0 +1,52 @@
+{
+  "drop_number": 10,
+  "datetime": "2017-11-01T12:00:00Z",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q !ITPb.qbhqo",
+  "title": "Queen of England & 13 Families",
+  "summary": "Drop #10 poses questions about the Queen of England's tenure and power, asks about '13 families,' and introduces the concept of a global power structure controlling governments, central banks, and information. It references 'the Rothschilds' as owning the world's central banks — a well-documented antisemitic conspiracy theory with no factual basis.",
+  "raw_text": "Who is the Queen of England?\nHow long has the Queen of England been in power?\nWith power comes corruption.\nWhat happened to Diana?\nWhat did she find out?\nWhy was she running?\nWho did she run to?\nWho was she protected by?\nWhat has she done recently?\n\nWho are the 13 families?\nWho does the Pope meet with?\nWho does the Queen meet with?\nWho does Obama meet with?\nWhy are they all connected?\nWho is at the top?\n\nMasters of the universe.\nRothschilds own the central banks.\nRothschilds own the means of production.\n\nWho are the 13 families?\nSilence is golden.",
+  "themes": ["British Monarchy", "Princess Diana", "13 Families", "Rothschild", "Pope", "Power Structures", "Central Banks"],
+  "related_drops": [4, 5, 7],
+  "sources": [
+    {"label": "qalerts.app — Drop #10", "url": "https://qalerts.app/?n=10", "note": "Third-party aggregator"},
+    {"label": "ADL: Rothschild conspiracy theories", "url": "https://www.adl.org/resources/backgrounder/rothschild-conspiracy-theories", "note": "Documentation of antisemitic origins"},
+    {"label": "Diana inquest findings (UK government)", "url": "https://www.gov.uk/", "note": "Official UK investigation findings"}
+  ],
+  "lines": [
+    {
+      "text": "Who is the Queen of England? How long has the Queen of England been in power?",
+      "fact": "At the time of this drop (2017), Queen Elizabeth II had been the British monarch since February 1952 — approximately 65 years. She was the longest-reigning British monarch. Queen Elizabeth II died on September 8, 2022, and was succeeded by King Charles III. The UK monarchy is a constitutional monarchy with the monarch's powers substantially constrained by Parliament and convention.",
+      "theory": "Q uses the Queen's long reign as an implicit suggestion of accumulated power and possible corruption. The follow-up questions about Diana amplify this implication.",
+      "context": "The UK constitutional monarchy's actual political powers are formally very limited. Royal Prerogative powers exist but are exercised by ministers on the monarch's behalf by convention.",
+      "questions": "What specific power is Q attributing to the Queen that goes beyond her documented constitutional role?",
+      "confidence": 95
+    },
+    {
+      "text": "What happened to Diana? What did she find out? Why was she running?",
+      "fact": "Princess Diana died on August 31, 1997, in a car crash in Paris, France, along with her companion Dodi Al Fayed and their driver Henri Paul. A French investigation concluded that Henri Paul, who was intoxicated and had prescription drugs in his system, caused the crash by driving at high speed while being pursued by paparazzi photographers. A UK inquest (2008) returned a verdict of unlawful killing due to grossly negligent driving by Henri Paul and the pursuing vehicles. No evidence of assassination was found by either investigation.",
+      "theory": "Conspiracy theories about Diana's death have circulated since 1997, particularly promoted by Mohamed Al Fayed (Dodi's father). Q incorporates these theories. The 2008 UK inquest specifically examined and rejected conspiracy theories, finding they were based on speculation rather than evidence.",
+      "context": "The Diana conspiracy theory genre predates Q by over a decade. The UK inquest was extensive, heard from hundreds of witnesses, and is publicly available. Despite this, the theories persist as examples of how official investigations can fail to satisfy those who distrust institutions.",
+      "questions": "What does Q claim Diana 'found out'? No specific allegation is made in this drop. Without a specific claim, there is nothing to evaluate.",
+      "confidence": 15,
+      "sources": [
+        {"label": "UK Diana Inquest Report 2008", "url": "https://www.gov.uk/"},
+        {"label": "BBC: Diana inquest verdict", "url": "https://www.bbc.co.uk/"}
+      ]
+    },
+    {
+      "text": "Rothschilds own the central banks. Rothschilds own the means of production.",
+      "fact": "These claims are false as stated. The Federal Reserve is a quasi-governmental institution whose Board of Governors is appointed by the US President and confirmed by the Senate. The Bank of England is a public institution, nationalised in 1946. The European Central Bank is an institution of the EU. The Rothschild family does not 'own' any of these institutions. The family does control investment banks (Rothschild & Co.) with significant but not dominant roles in global finance. The claim they 'own the means of production' is similarly unsupported — this phrase typically refers to Marxist economic analysis and is not applicable to the Rothschild family's documented holdings.",
+      "theory": "The Rothschild banking conspiracy theory has roots in 19th-century antisemitism and was prominently circulated by Nazi propaganda. Q presents this theory without antisemitic framing but the underlying claim is the same. The ADL and other researchers document how these theories can function as conduits to antisemitic worldviews regardless of how they are presented.",
+      "context": "The Rothschild family's actual documented influence in global finance is substantial but publicly recorded, subject to regulation, and far from the secret total control described. Their private bank (Rothschild & Co.) is a publicly listed company with published annual reports.",
+      "questions": "What specific evidence documents ownership or control of central banks by the Rothschild family? How does the documented governance structure of the Federal Reserve or Bank of England reconcile with this claim?",
+      "confidence": 2,
+      "sources": [
+        {"label": "ADL: Rothschild conspiracy theories", "url": "https://www.adl.org/resources/backgrounder/rothschild-conspiracy-theories"},
+        {"label": "Federal Reserve: governance structure", "url": "https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm"},
+        {"label": "Rothschild & Co. — public filings", "url": "https://www.rothschildandco.com/"}
+      ]
+    }
+  ]
+}

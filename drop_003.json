@@ -1,0 +1,46 @@
+{
+  "drop_number": 3,
+  "datetime": "2017-10-29T18:00:00Z",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q !ITPb.qbhqo",
+  "title": "Admiral Rogers & NSA Control",
+  "summary": "Drop #3 focuses on Admiral Michael Rogers, then-Director of the NSA, asking about his significance and who controls the intelligence apparatus. The drop also poses questions about the relationship between the CIA and NSA and implies tension between the two agencies.",
+  "raw_text": "Who is Admiral Michael Rogers?\nWhy is this relevant?\nWho controls the NSA?\nWhy is this relevant?\nWho really controls the NSA?\nWhy is this relevant?\nNSA/MI vs. CIA.\nWhy is this relevant?\nWho really controls the CIA?\nWhy is this relevant?",
+  "themes": ["NSA", "Intelligence Community", "Admiral Rogers", "CIA", "Power Structures"],
+  "related_drops": [2, 4, 8],
+  "sources": [
+    {
+      "label": "qalerts.app — Drop #3",
+      "url": "https://qalerts.app/?n=3",
+      "note": "Third-party aggregator"
+    },
+    {
+      "label": "Admiral Rogers — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_S._Rogers",
+      "note": "Biographical overview of public figure"
+    }
+  ],
+  "lines": [
+    {
+      "text": "Who is Admiral Michael Rogers?",
+      "fact": "Admiral Michael S. Rogers (born 1959) served as Director of the National Security Agency and Commander of US Cyber Command from 2014 to 2018. He is a publicly documented figure with an extensive verifiable career. In November 2016, he reportedly traveled to Trump Tower without informing his superiors at the DoD and Director of National Intelligence, which was reported in the Washington Post.",
+      "theory": "Q community members viewed Rogers as a 'white hat' insider who was working against the 'deep state' and who may have briefed Trump about surveillance of his campaign. The November 2016 Trump Tower visit generated significant speculation in the Q community.",
+      "context": "Rogers' November 2016 visit to Trump Tower, made without informing his chain of command, was reported by multiple news outlets. The reasons for the visit were never publicly confirmed. Rogers retired in 2018.",
+      "questions": "What was the purpose of Rogers' November 2016 Trump Tower visit? This remains unconfirmed publicly.",
+      "confidence": 85,
+      "sources": [
+        {"label": "WaPo: Rogers visits Trump Tower", "url": "https://www.washingtonpost.com/world/national-security/"},
+        {"label": "Rogers NSA bio", "url": "https://www.nsa.gov/"}
+      ]
+    },
+    {
+      "text": "NSA/MI vs. CIA. Why is this relevant?",
+      "fact": "Documented tensions between the NSA and CIA over authorities, budgets, and operational methods are well-established in declassified documents, congressional testimony, and journalistic reporting. The Church Committee (1975) and subsequent investigations documented significant inter-agency conflicts.",
+      "theory": "Q frames this as a fundamental alignment where the NSA/Military Intelligence are 'good' actors and the CIA represents a 'cabal'-controlled institution. This is a significant simplification that does not reflect the documented complexity of US intelligence community politics.",
+      "context": "Inter-agency rivalry in US intelligence is well-documented and real. However, framing one entire agency as 'good' and another as 'bad' is a substantial analytical leap not supported by the documentary record.",
+      "questions": "On what basis are specific agencies categorized as aligned with one side or another? What is the evidence?",
+      "confidence": 40
+    }
+  ]
+}

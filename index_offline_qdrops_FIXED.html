@@ -1,0 +1,363 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Offline Q Drops Archive</title>
+
+<style>
+:root{
+--bg:#181a1f;
+--panel:#23262d;
+--panel2:#2d3139;
+--border:#404650;
+--text:#d8d2c8;
+--muted:#9ea4ad;
+--accent:#c6a46a;
+--fact:#6fb87d;
+--theory:#a38ae0;
+--context:#d7b35c;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+font-family:Arial,sans-serif;
+background:var(--bg);
+color:var(--text);
+height:100vh;
+overflow:hidden;
+}
+.layout{display:flex;height:100vh}
+.sidebar{
+width:320px;
+overflow-y:auto;
+background:var(--panel);
+border-right:1px solid var(--border);
+padding:20px;
+}
+.main{
+flex:1;
+overflow-y:auto;
+padding:24px;
+}
+h1{
+color:var(--accent);
+margin-bottom:10px;
+font-size:24px;
+}
+.panel{
+background:var(--panel2);
+border:1px solid var(--border);
+border-radius:10px;
+padding:16px;
+margin-bottom:18px;
+}
+.btn{
+display:inline-block;
+padding:12px 16px;
+background:#7d6848;
+border-radius:8px;
+cursor:pointer;
+font-weight:bold;
+}
+.btn:hover{opacity:.9}
+input[type=file]{display:none}
+.search{
+width:100%;
+margin-top:14px;
+padding:12px;
+background:#181b20;
+border:1px solid var(--border);
+border-radius:8px;
+color:white;
+}
+.drop{
+padding:12px;
+margin-top:10px;
+background:#1b1e23;
+border-radius:8px;
+cursor:pointer;
+border:1px solid transparent;
+}
+.drop:hover{
+border-color:#7d6848;
+}
+.raw{
+background:#111317;
+padding:18px;
+border-radius:10px;
+white-space:pre-wrap;
+line-height:1.8;
+font-family:monospace;
+}
+.line{
+margin-top:12px;
+padding:14px;
+background:var(--panel);
+border-radius:8px;
+cursor:pointer;
+border:1px solid var(--border);
+}
+.analysis{
+display:none;
+margin-top:14px;
+}
+.analysis.open{
+display:block;
+}
+.block{
+padding:12px;
+border-radius:8px;
+margin-top:10px;
+}
+.fact{background:#1f2d23}
+.theory{background:#241f34}
+.context{background:#302918}
+.label{
+font-size:12px;
+font-weight:bold;
+margin-bottom:8px;
+text-transform:uppercase;
+}
+.fact .label{color:var(--fact)}
+.theory .label{color:var(--theory)}
+.context .label{color:var(--context)}
+ul{
+margin-left:20px;
+line-height:1.7;
+}
+.small{
+font-size:13px;
+color:var(--muted);
+line-height:1.7;
+}
+</style>
+</head>
+<body>
+
+<div class="layout">
+
+<div class="sidebar">
+
+<h1>Q Drops Archive</h1>
+
+<div class="panel">
+<label class="btn">
+Load JSON Files
+<input type="file" id="loader" multiple accept=".json">
+</label>
+
+<input class="search" id="search" placeholder="Search loaded drops...">
+</div>
+
+<div id="status" class="small" style="margin-bottom:10px;">
+No files loaded.
+</div>
+
+<div id="list"></div>
+
+</div>
+
+<div class="main">
+
+<div class="panel">
+<div class="small">
+Offline interactive archive.<br><br>
+Load one or more JSON files from your computer.<br>
+Supports:
+<ul style="margin-top:10px;">
+<li>single drop JSON files</li>
+<li>files containing a "drops" array</li>
+<li>manifest-style files</li>
+</ul>
+</div>
+</div>
+
+<div id="content"></div>
+
+</div>
+
+</div>
+
+<script>
+
+let drops = [];
+
+const loader = document.getElementById('loader');
+const list = document.getElementById('list');
+const content = document.getElementById('content');
+const search = document.getElementById('search');
+const statusBox = document.getElementById('status');
+
+loader.addEventListener('change', async (e) => {
+
+    const files = [...e.target.files];
+
+    let added = 0;
+
+    for(const file of files){
+
+        try{
+
+            const text = await file.text();
+            const json = JSON.parse(text);
+
+            // single drop
+            if(json.number){
+
+                drops.push(json);
+                added++;
+            }
+
+            // array of drops
+            else if(Array.isArray(json.drops)){
+
+                json.drops.forEach(d => {
+                    drops.push(d);
+                    added++;
+                });
+            }
+
+        }catch(err){
+
+            console.error("Error loading:", file.name, err);
+        }
+    }
+
+    // remove duplicates
+    const map = new Map();
+
+    drops.forEach(d => {
+        if(d.number){
+            map.set(d.number, d);
+        }
+    });
+
+    drops = [...map.values()].sort((a,b)=>a.number-b.number);
+
+    statusBox.innerHTML = added + " drops loaded.";
+
+    renderList();
+});
+
+search.addEventListener('input', renderList);
+
+function renderList(){
+
+    list.innerHTML = '';
+
+    const q = search.value.toLowerCase();
+
+    const filtered = drops.filter(d => {
+
+        return JSON.stringify(d).toLowerCase().includes(q);
+    });
+
+    filtered.forEach(drop => {
+
+        const div = document.createElement('div');
+
+        div.className = 'drop';
+
+        div.innerHTML = `
+        <strong>Drop #${drop.number}</strong><br>
+        <span class="small">${drop.date || ''}</span>
+        `;
+
+        div.onclick = () => renderDrop(drop);
+
+        list.appendChild(div);
+    });
+}
+
+function renderDrop(drop){
+
+    content.innerHTML = '';
+
+    const header = document.createElement('div');
+
+    header.innerHTML = `
+    <h1>Drop #${drop.number}</h1>
+
+    <div class="panel">
+        <div class="small">
+            ${escapeHtml(drop.intro || '')}
+        </div>
+    </div>
+
+    <div class="panel">
+        <div class="raw">${escapeHtml(drop.rawText || '')}</div>
+    </div>
+    `;
+
+    content.appendChild(header);
+
+    if(Array.isArray(drop.lines)){
+
+        drop.lines.forEach(line => {
+
+            const div = document.createElement('div');
+
+            div.className = 'line';
+
+            div.innerHTML = `
+            <div>${escapeHtml(line.text || '')}</div>
+
+            <div class="analysis">
+
+                ${line.context ? `
+                <div class="block context">
+                    <div class="label">Context</div>
+                    ${escapeHtml(line.context)}
+                </div>
+                ` : ''}
+
+                ${Array.isArray(line.facts) ? `
+                <div class="block fact">
+                    <div class="label">Facts</div>
+                    <ul>
+                        ${line.facts.map(f => `<li>${escapeHtml(f)}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
+
+                ${Array.isArray(line.theories) ? `
+                <div class="block theory">
+                    <div class="label">Theories</div>
+                    <ul>
+                        ${line.theories.map(t => `<li>${escapeHtml(t)}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
+            </div>
+            `;
+
+            div.onclick = () => {
+
+                document.querySelectorAll('.analysis.open').forEach(a => {
+
+                    if(a !== div.querySelector('.analysis')){
+                        a.classList.remove('open');
+                    }
+                });
+
+                div.querySelector('.analysis').classList.toggle('open');
+            };
+
+            content.appendChild(div);
+        });
+    }
+}
+
+function escapeHtml(str){
+
+    return String(str)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;');
+}
+
+</script>
+
+</body>
+</html>
