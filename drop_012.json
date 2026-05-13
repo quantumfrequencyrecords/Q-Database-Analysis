@@ -1,0 +1,44 @@
+{
+  "drop_number": 12,
+  "datetime": "2017-10-28T20:18:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "References to Surveillance and Data Collection",
+  "summary": "Drop #12 focused on surveillance, metadata, and intelligence collection capabilities. The post encouraged readers to consider the scale of modern digital monitoring.",
+  "raw_text": "Why does the NSA collect data?\nWhat is metadata?\nWho has access?\nWhy is this relevant?\nQ",
+  "themes": [
+    "NSA",
+    "Metadata",
+    "Surveillance"
+  ],
+  "related_drops": [
+    3,
+    11
+  ],
+  "sources": [
+    {
+      "label": "NSA Official Site",
+      "url": "https://www.nsa.gov/",
+      "note": "Agency mission and historical context",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "What is metadata?",
+      "fact": "Metadata refers to information about communications such as time, duration, sender, and recipient rather than message content itself.",
+      "theory": "Q followers interpreted metadata collection as evidence intelligence agencies possessed compromising information on political actors.",
+      "context": "Public debate over metadata intensified after Edward Snowden's 2013 disclosures.",
+      "questions": "What legal limitations govern metadata collection and domestic surveillance?",
+      "confidence": 75,
+      "Deltas": "2020-2025: Ongoing surveillance and privacy debates continued in courts and Congress.",
+      "sources": [
+        {
+          "label": "ACLU Surveillance Overview",
+          "url": "https://www.aclu.org/issues/national-security/privacy-and-surveillance"
+        }
+      ]
+    }
+  ]
+}

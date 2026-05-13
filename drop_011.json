@@ -1,0 +1,45 @@
+{
+  "drop_number": 11,
+  "datetime": "2017-10-28T20:05:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Military Oath and Constitutional Framing",
+  "summary": "Drop #11 emphasized military loyalty to the Constitution and suggested that patriotic duty superseded partisan politics.",
+  "raw_text": "Why do we serve?\nWhy do we protect the Constitution?\nWhat is the military oath?\nWhy is this relevant?\nQ",
+  "themes": [
+    "Military oath",
+    "Constitution",
+    "Patriotism"
+  ],
+  "related_drops": [
+    2,
+    4,
+    6
+  ],
+  "sources": [
+    {
+      "label": "U.S. Army Oath of Enlistment",
+      "url": "https://www.army.mil/values/oath.html",
+      "note": "Official oath reference",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "What is the military oath?",
+      "fact": "Members of the U.S. military swear an oath to support and defend the Constitution of the United States.",
+      "theory": "Q followers interpreted this as evidence that military actors were conducting constitutional defense operations behind the scenes.",
+      "context": "Military symbolism and constitutional language were recurring themes in early Q narratives.",
+      "questions": "What evidence would demonstrate active military intervention in civilian governance?",
+      "confidence": 55,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "U.S. Army",
+          "url": "https://www.army.mil/values/oath.html"
+        }
+      ]
+    }
+  ]
+}

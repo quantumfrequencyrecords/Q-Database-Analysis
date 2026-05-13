@@ -1,0 +1,45 @@
+{
+  "drop_number": 13,
+  "datetime": "2017-10-28T20:34:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Media Narratives and Information Control",
+  "summary": "Drop #13 continued Q's focus on media trust and public perception management. It framed mainstream narratives as coordinated influence operations.",
+  "raw_text": "Why does the media push narratives?\nWhy is this important?\nWhy attack alternative voices?\nWho benefits?\nQ",
+  "themes": [
+    "Media narratives",
+    "Alternative media",
+    "Information warfare"
+  ],
+  "related_drops": [
+    4,
+    9,
+    12
+  ],
+  "sources": [
+    {
+      "label": "Pew Research Center",
+      "url": "https://www.pewresearch.org/",
+      "note": "Media trust research",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Why attack alternative voices?",
+      "fact": "Media organizations and platforms regularly debate moderation standards, misinformation policies, and editorial credibility.",
+      "theory": "Q communities interpreted criticism or moderation of conspiracy content as coordinated suppression.",
+      "context": "Questions about free speech, misinformation, and platform moderation expanded significantly after 2016.",
+      "questions": "How can researchers distinguish moderation policies from coordinated censorship?",
+      "confidence": 45,
+      "Deltas": "2021-2025: Increased public debate over content moderation and deplatforming policies.",
+      "sources": [
+        {
+          "label": "Electronic Frontier Foundation",
+          "url": "https://www.eff.org/issues/free-speech"
+        }
+      ]
+    }
+  ]
+}

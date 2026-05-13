@@ -1,0 +1,44 @@
+{
+  "drop_number": 14,
+  "datetime": "2017-10-28T20:48:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Questions About Leaks and Internal Sources",
+  "summary": "Drop #14 suggested the existence of internal whistleblowers or leaks from government agencies. The wording remained intentionally broad.",
+  "raw_text": "Why are there leaks?\nWho is leaking?\nWhy now?\nWho benefits from controlled leaks?\nQ",
+  "themes": [
+    "Leaks",
+    "Whistleblowers",
+    "Controlled information"
+  ],
+  "related_drops": [
+    3,
+    13
+  ],
+  "sources": [
+    {
+      "label": "DOJ Media Leak Guidance",
+      "url": "https://www.justice.gov/",
+      "note": "DOJ information handling policies",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Who benefits from controlled leaks?",
+      "fact": "Government leaks can occur for political, bureaucratic, journalistic, or whistleblower-related reasons.",
+      "theory": "Followers interpreted leaks as strategic information warfare between intelligence factions.",
+      "context": "Media leaks were a major feature of reporting during the Trump administration.",
+      "questions": "What evidence differentiates intentional strategic leaks from unauthorized disclosures?",
+      "confidence": 50,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Congressional Research Service",
+          "url": "https://crsreports.congress.gov/"
+        }
+      ]
+    }
+  ]
+}

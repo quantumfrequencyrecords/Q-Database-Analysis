@@ -1,0 +1,45 @@
+{
+  "drop_number": 15,
+  "datetime": "2017-10-28T21:02:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Call for Independent Research",
+  "summary": "Drop #15 encouraged readers to independently investigate claims rather than trust institutional sources. This participatory style became central to QAnon culture.",
+  "raw_text": "Do not trust anyone.\nResearch for yourself.\nUse logic.\nFollow the data.\nQ",
+  "themes": [
+    "Independent research",
+    "Data analysis",
+    "Distrust of institutions"
+  ],
+  "related_drops": [
+    8,
+    9,
+    13
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Drop archive",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Research for yourself.",
+      "fact": "The statement encourages independent investigation but does not specify standards for evaluating evidence.",
+      "theory": "Q followers viewed collaborative online investigation as a form of decentralized intelligence gathering.",
+      "context": "Crowdsourced research became a defining feature of Q communities across message boards and social platforms.",
+      "questions": "What standards of evidence are necessary to prevent confirmation bias in collaborative investigations?",
+      "confidence": 60,
+      "Deltas": "2018-2025: Online communities continued developing collaborative open-source investigation models across political movements.",
+      "sources": [
+        {
+          "label": "MIT Media Lab Research",
+          "url": "https://www.media.mit.edu/"
+        }
+      ]
+    }
+  ]
+}
