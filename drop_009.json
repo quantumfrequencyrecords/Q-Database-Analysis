@@ -1,0 +1,43 @@
+{
+  "drop_number": 9,
+  "datetime": "2017-10-28T19:25:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Future Proves Past Framing",
+  "summary": "Drop #9 introduced one of the most repeated Q slogans: 'Future proves past.' The phrase became central to retrospective interpretation practices in Q communities.",
+  "raw_text": "Future proves past.\nLearn.\nThink.\nQ",
+  "themes": [
+    "Future proves past",
+    "Interpretation frameworks"
+  ],
+  "related_drops": [
+    8,
+    10
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Drop archive",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Future proves past.",
+      "fact": "The phrase is not tied to a specific verifiable claim.",
+      "theory": "Followers used the slogan to retrospectively connect future events to earlier vague drops.",
+      "context": "This framing mechanism can become unfalsifiable because later events are selectively matched to ambiguous earlier statements.",
+      "questions": "What objective criteria determine whether a later event truly validates an earlier prediction?",
+      "confidence": 20,
+      "Deltas": "2018-2025: Phrase repeatedly cited by Q communities when linking later political events to earlier drops.",
+      "sources": [
+        {
+          "label": "Brookings Institution",
+          "url": "https://www.brookings.edu/articles/history-of-qanon/"
+        }
+      ]
+    }
+  ]
+}

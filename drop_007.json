@@ -1,0 +1,60 @@
+{
+  "drop_number": 7,
+  "datetime": "2017-10-28T18:50:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Keystone Reference and Senate Finance Questions",
+  "summary": "Drop #7 introduced the term 'Keystone' and referenced Senate financial oversight themes. The term was never clearly defined by Q.",
+  "raw_text": "What is Keystone?\nWhy is this relevant?\nWho controls the Senate?\nWho controls the finance committees?\nWhat happens if corruption is exposed?\nQ",
+  "themes": [
+    "Keystone",
+    "Senate finance",
+    "Political corruption"
+  ],
+  "related_drops": [
+    4,
+    6,
+    9
+  ],
+  "sources": [
+    {
+      "label": "U.S. Senate",
+      "url": "https://www.senate.gov/",
+      "note": "Official Senate information",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "What is Keystone?",
+      "fact": "The term was not defined by Q and has no universally accepted interpretation within the drop archive.",
+      "theory": "Followers speculated it referred to financial systems, intelligence coordination, or hidden infrastructure.",
+      "context": "Ambiguous keywords became common participation mechanisms in Q communities.",
+      "questions": "Did Q ever directly clarify the meaning of Keystone in later drops?",
+      "confidence": 10,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Q Alerts Search",
+          "url": "https://qalerts.app/"
+        }
+      ]
+    },
+    {
+      "text": "Who controls the finance committees?",
+      "fact": "Congressional finance-related committees are formally controlled by elected members and party leadership structures.",
+      "theory": "Q followers interpreted the line as implying hidden financial influence over legislative priorities.",
+      "context": "Committee leadership often shapes taxation, banking, and oversight policy.",
+      "questions": "What documented evidence exists of improper financial influence over committee operations?",
+      "confidence": 45,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "U.S. Senate Committees",
+          "url": "https://www.senate.gov/committees/"
+        }
+      ]
+    }
+  ]
+}

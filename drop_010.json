@@ -1,0 +1,60 @@
+{
+  "drop_number": 10,
+  "datetime": "2017-10-28T19:40:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Princess Diana and Banking Conspiracy Themes",
+  "summary": "Drop #10 referenced Princess Diana and global banking narratives. Some interpretations overlapped with longstanding antisemitic conspiracy theories.",
+  "raw_text": "Why was Diana killed?\nWho owned the tunnel?\nWhy is this relevant?\nWho controls all the money?\nWhy is this relevant?\nRothschild.\nQ",
+  "themes": [
+    "Princess Diana",
+    "Rothschild",
+    "Banking conspiracies"
+  ],
+  "related_drops": [
+    5,
+    8,
+    9
+  ],
+  "sources": [
+    {
+      "label": "ADL Backgrounders",
+      "url": "https://www.adl.org/",
+      "note": "Context on conspiracy tropes",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Why was Diana killed?",
+      "fact": "Official investigations concluded Princess Diana died in a 1997 car crash in Paris caused by reckless driving and pursuit by paparazzi.",
+      "theory": "Q followers and earlier conspiracy communities speculated Diana was assassinated because of political or elite conflicts.",
+      "context": "Multiple official investigations in the UK and France found no evidence of assassination.",
+      "questions": "What new evidence, if any, would materially contradict the official investigations?",
+      "confidence": 35,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "UK Operation Paget Report",
+          "url": "https://www.gov.uk/government/publications/operation-paget-report-into-the-deaths-of-diana-princess-of-wales-and-dodi-al-fayed"
+        }
+      ]
+    },
+    {
+      "text": "Rothschild.",
+      "fact": "The Rothschild family is a historic European banking family frequently referenced in conspiracy theories.",
+      "theory": "Q communities interpreted the reference as evidence of hidden financial control structures.",
+      "context": "Claims about secret Rothschild domination are historically linked to antisemitic conspiracy literature and should be critically evaluated.",
+      "questions": "What verifiable evidence exists for claims of centralized global financial control by a single family?",
+      "confidence": 15,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "ADL on Rothschild Conspiracies",
+          "url": "https://www.adl.org/resources/backgrounder/rothschilds-conspiracy-theories-and-antisemitism"
+        }
+      ]
+    }
+  ]
+}

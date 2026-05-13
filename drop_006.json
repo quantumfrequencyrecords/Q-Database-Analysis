@@ -1,0 +1,60 @@
+{
+  "drop_number": 6,
+  "datetime": "2017-10-28T18:35:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Binary Framing and Undefined References",
+  "summary": "Drop #6 emphasized a binary conflict between good and evil and introduced cryptic references including 'Wizards and Warlocks.' The post relied heavily on emotionally charged framing without defining key terms.",
+  "raw_text": "This is not about Republicans vs Democrats.\nNot about Left vs Right.\nGood vs Evil.\nWho are the Wizards & Warlocks?\nWhy is this relevant?\nWhat is a cult?\nWhy is this relevant?\nQ",
+  "themes": [
+    "Good vs evil framing",
+    "Cult references",
+    "Wizards and Warlocks"
+  ],
+  "related_drops": [
+    2,
+    4,
+    8
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Archived drop text",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Good vs Evil.",
+      "fact": "The statement is rhetorical framing rather than a verifiable factual claim.",
+      "theory": "Q followers interpreted this as a moral struggle involving corruption, trafficking, intelligence operations, and global influence networks.",
+      "context": "Binary framing simplifies political and institutional conflicts into moral absolutes.",
+      "questions": "What evidence would distinguish objective wrongdoing from narrative framing? Does this structure make disagreement appear immoral?",
+      "confidence": 20,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Academic Analysis of QAnon",
+          "url": "https://www.brookings.edu/articles/history-of-qanon/"
+        }
+      ]
+    },
+    {
+      "text": "Who are the Wizards & Warlocks?",
+      "fact": "Q did not define the phrase within this drop or later official communications.",
+      "theory": "Community interpretations ranged from intelligence officials to elite political figures or occult symbolism.",
+      "context": "Undefined symbolic language increases interpretive flexibility and encourages community participation.",
+      "questions": "Was the phrase metaphorical, cultural shorthand, or intentionally ambiguous?",
+      "confidence": 15,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Q Alerts Archive",
+          "url": "https://qalerts.app/"
+        }
+      ]
+    }
+  ]
+}

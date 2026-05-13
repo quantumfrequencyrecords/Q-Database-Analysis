@@ -1,0 +1,45 @@
+{
+  "drop_number": 8,
+  "datetime": "2017-10-28T19:10:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Highly Cryptic Operational Language",
+  "summary": "Drop #8 contained brief and highly ambiguous operational-style language. The lack of concrete details made later interpretations highly flexible.",
+  "raw_text": "Alice & Wonderland.\nHow far down the rabbit hole do you want to go?\nThere is no escaping this.\nQ",
+  "themes": [
+    "Alice in Wonderland",
+    "Rabbit hole",
+    "Cryptic messaging"
+  ],
+  "related_drops": [
+    6,
+    9,
+    10
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Archived drop copy",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "How far down the rabbit hole do you want to go?",
+      "fact": "The phrase is metaphorical and references Alice in Wonderland imagery.",
+      "theory": "Followers interpreted this as encouragement to independently research hidden political or institutional information.",
+      "context": "Rabbit hole terminology became a defining part of internet conspiracy culture prior to and during QAnon.",
+      "questions": "Does the framing encourage open-ended interpretation without standards of evidence?",
+      "confidence": 25,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Britannica - Alice in Wonderland",
+          "url": "https://www.britannica.com/topic/Alices-Adventures-in-Wonderland"
+        }
+      ]
+    }
+  ]
+}
