@@ -1,0 +1,50 @@
+{
+  "drop_number": 5,
+  "datetime": "2017-10-28T18:20:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Banking and Brotherhood Conspiracy Themes",
+  "summary": "Drop #5 referenced global finance, the Muslim Brotherhood, and hidden influence claims. Several themes overlapped with long-running conspiracy narratives.",
+  "raw_text": "Why does the Muslim Brotherhood matter?\nWhy was the MB protected?\nWho funded them?\nWhy is this relevant?\nWho controls central banks?\nWhy is this relevant?\nWhat family historically controlled banking interests?\nWhy is this relevant?\nQ",
+  "themes": [
+    "Muslim Brotherhood",
+    "Central banking",
+    "Global finance"
+  ],
+  "related_drops": [
+    2,
+    3,
+    4,
+    10
+  ],
+  "sources": [
+    {
+      "label": "ADL Conspiracy Backgrounders",
+      "url": "https://www.adl.org/",
+      "note": "Background on antisemitic conspiracy narratives",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Who controls central banks?",
+      "fact": "Central banks are generally operated by national governments or independent monetary authorities with varying governance structures.",
+      "theory": "Q followers connected this to global banking conspiracy theories involving elite families.",
+      "context": "Claims about secret banking dynasties often overlap with historically antisemitic conspiracy narratives.",
+      "questions": "What verifiable ownership structures exist for major central banks?",
+      "confidence": 25,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/"
+        },
+        {
+          "label": "ADL on Antisemitic Tropes",
+          "url": "https://www.adl.org/resources/backgrounder/antisemitism-and-conspiracy-theories"
+        }
+      ]
+    }
+  ]
+}

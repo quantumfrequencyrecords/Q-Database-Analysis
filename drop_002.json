@@ -1,0 +1,66 @@
+{
+  "drop_number": 2,
+  "datetime": "2017-10-28T17:15:48-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Questions About Military Intelligence and Political Power",
+  "summary": "Drop #2 used a Socratic question format to imply corruption, intelligence operations, and hidden coordination between political and military actors.",
+  "raw_text": "<Mockingbird\nHRC detained, not arrested (yet).\nWhere is Huma?\nFollow Huma.\nThis has nothing to do w/ Russia (yet).\nWhy does POTUS surround himself w/ generals?\nWhat is military intelligence?\nWhy go around the 3 letter agencies?\nWhat Supreme Court case allows for the use of MI v Congressional assembled and approved agencies?\nWho has ultimate authority over our branches of military w/o approval conditions unless 90+ in wartime conditions?\nWhat is the military code?\nWhere is AW being held?\nWhy?\nPOTUS will not go on tv to address nation.\nPOTUS must isolate himself to prevent negative optics.\nPOTUS knew removing criminal rogue elements as a first step was essential to free and pass legislation.\nWho has access to everything classified?\nDo you believe HRC, Soros, Obama, and others have more power than Trump?\nFantasy.\nWhoever controls the office of the Presidency controls this great land.\nThey never believed for a moment they would lose control.\nThis is not a R v D battle.\nWhy did Soros donate all his money recently?\nWhy would he place all his funds in a RC?\nMockingbird\nGod bless fellow Patriots.",
+  "themes": [
+    "Mockingbird",
+    "Military intelligence",
+    "George Soros",
+    "Huma Abedin"
+  ],
+  "related_drops": [
+    1,
+    3,
+    4,
+    5
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Archive copy of drop",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "What is military intelligence?",
+      "fact": "Military intelligence organizations exist within the Department of Defense and support operational planning and national security.",
+      "theory": "Q followers viewed this as suggesting a covert military-led operation bypassing traditional intelligence agencies.",
+      "context": "Early Q narratives framed military intelligence as more trustworthy than civilian agencies.",
+      "questions": "What legal authority would permit domestic military intelligence operations in this context?",
+      "confidence": 55,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Defense Intelligence Agency",
+          "url": "https://www.dia.mil/"
+        }
+      ]
+    },
+    {
+      "text": "Why did Soros donate all his money recently?",
+      "fact": "George Soros transferred substantial assets into Open Society Foundations in 2017.",
+      "theory": "Q communities interpreted the transfer as evidence Soros anticipated legal or political consequences.",
+      "context": "Soros conspiracy narratives are frequently associated with broader global control theories and sometimes overlap with antisemitic tropes.",
+      "questions": "Was there evidence the transfer was connected to political investigations or legal action?",
+      "confidence": 45,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Open Society Foundations",
+          "url": "https://www.opensocietyfoundations.org/"
+        },
+        {
+          "label": "ADL Background on Soros Conspiracies",
+          "url": "https://www.adl.org/resources/backgrounder/george-soros-conspiracy-theories-and-antisemitism"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "drop_number": 4,
+  "datetime": "2017-10-28T18:10:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Claims About Political Control Networks",
+  "summary": "Drop #4 focused on influence networks, media narratives, and alleged hidden control structures surrounding political elites.",
+  "raw_text": "Why is the National Guard important?\nWhy is the military the only way?\nWhy did the Founders specifically exclude political affiliation within the military?\nWho controls the media?\nWhy is this relevant?\nWhy is the FBI leaking information?\nWho controls the FBI?\nWho controls the DOJ?\nWho controls the MSM?\nQ",
+  "themes": [
+    "Media control",
+    "DOJ",
+    "Military",
+    "Mainstream media"
+  ],
+  "related_drops": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "sources": [
+    {
+      "label": "U.S. Constitution",
+      "url": "https://constitution.congress.gov/",
+      "note": "Founding legal framework",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Who controls the media?",
+      "fact": "Media ownership in the United States is concentrated among several large corporations, though no single entity controls all media.",
+      "theory": "Q followers interpreted this as evidence of coordinated propaganda and censorship efforts.",
+      "context": "Media distrust became a central component of the broader QAnon narrative ecosystem.",
+      "questions": "What evidence would demonstrate coordinated editorial control across separate media organizations?",
+      "confidence": 35,
+      "Deltas": "2020-2025: Ongoing debates over censorship, platform moderation, and media trust continued but did not verify a unified control structure.",
+      "sources": [
+        {
+          "label": "Pew Research Center",
+          "url": "https://www.pewresearch.org/"
+        }
+      ]
+    }
+  ]
+}

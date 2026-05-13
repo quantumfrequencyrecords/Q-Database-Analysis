@@ -1,0 +1,66 @@
+{
+  "drop_number": 3,
+  "datetime": "2017-10-28T17:35:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Questions About Intelligence Agencies and Uranium One",
+  "summary": "Drop #3 continued the question-based format and referenced intelligence officials, Uranium One, and media influence narratives.",
+  "raw_text": "Who controls the NSA?\nWho controls the FBI?\nDo you believe in coincidences?\nWho had access to HRC's emails?\nWhy is this relevant?\nWhat agency has the power to conduct operations and gather intel over our domestic agencies?\nWhy was the NSA created?\nWhy is this relevant?\nWho was Admiral Rogers?\nWhat did Admiral Rogers do upon learning of the political surveillance and illegal collection of data?\nHow did he violate standard procedures?\nWhy is this relevant?\nWhat was the Russian dossier?\nWho paid for it?\nWhy is this relevant?\nWhat is Uranium One?\nWhy is this relevant?\nQ",
+  "themes": [
+    "NSA",
+    "FBI",
+    "Uranium One",
+    "Russia dossier"
+  ],
+  "related_drops": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "sources": [
+    {
+      "label": "NSA Official History",
+      "url": "https://www.nsa.gov/",
+      "note": "Agency background",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "What is Uranium One?",
+      "fact": "Uranium One was a uranium mining company whose acquisition by Rosatom was approved by U.S. agencies in 2010.",
+      "theory": "Q followers interpreted Uranium One as evidence of corruption involving the Clinton Foundation and Russian interests.",
+      "context": "Multiple investigations reviewed the transaction; no criminal charges against Hillary Clinton resulted from the deal.",
+      "questions": "Did any verified evidence show direct bribery connected to the approval process?",
+      "confidence": 40,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Nuclear Regulatory Commission",
+          "url": "https://www.nrc.gov/"
+        },
+        {
+          "label": "Reuters Fact Check",
+          "url": "https://www.reuters.com/"
+        }
+      ]
+    },
+    {
+      "text": "Who was Admiral Rogers?",
+      "fact": "Admiral Mike Rogers served as Director of the NSA and Commander of U.S. Cyber Command.",
+      "theory": "Some followers believed Rogers warned Donald Trump about surveillance activities.",
+      "context": "Rogers became a recurring figure in early Q narratives about intelligence reform.",
+      "questions": "What documented actions by Rogers directly relate to the claims implied here?",
+      "confidence": 60,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "NSA Biography Archive",
+          "url": "https://www.nsa.gov/"
+        }
+      ]
+    }
+  ]
+}
