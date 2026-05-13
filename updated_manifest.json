@@ -1,0 +1,1019 @@
+{
+  "version": "1.1.0",
+  "title": "Q Archive Research Database",
+  "description": "Offline-first research database of alleged Q / QAnon drops. All content treated as claims requiring independent verification.",
+  "disclaimer": "This archive is a research tool only. Contents are not verified fact. Treat all Q drops as unverified claims.",
+  "last_updated": "2026-05-13",
+  "total_drops": 50,
+  "source_reference": "qalerts.app",
+  "drops": [
+    {
+      "num": 1,
+      "file": "drop_001.json",
+      "date": "2017-10-28",
+      "datetime": "2017-10-28T15:44:00Z",
+      "platform": "4chan /pol/",
+      "preview": "HRC extradition already in motion effective yesterday with several countries. Proof check: Locate a NN anchor (children no longer with HRC) to + an answer.",
+      "tags": [
+        "HRC",
+        "extradition",
+        "prediction",
+        "4chan"
+      ],
+      "themes": [
+        "Hillary Clinton",
+        "Extradition",
+        "Prediction"
+      ]
+    },
+    {
+      "num": 2,
+      "file": "drop_002.json",
+      "date": "2017-10-29",
+      "datetime": "2017-10-29T12:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "What must be completed to engage MI? I'd like to know. What is the difference between civilian courts and military courts? Why is this relevant?",
+      "tags": [
+        "military intelligence",
+        "courts",
+        "questions",
+        "4chan"
+      ],
+      "themes": [
+        "Military Intelligence",
+        "Legal Systems",
+        "Questions"
+      ]
+    },
+    {
+      "num": 3,
+      "file": "drop_003.json",
+      "date": "2017-10-29",
+      "datetime": "2017-10-29T18:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Who is Admiral Michael Rogers? Why is this relevant? Who controls the NSA? Why is this relevant?",
+      "tags": [
+        "NSA",
+        "Rogers",
+        "intelligence",
+        "4chan"
+      ],
+      "themes": [
+        "NSA",
+        "Intelligence Community",
+        "Admiral Rogers"
+      ]
+    },
+    {
+      "num": 4,
+      "file": "drop_004.json",
+      "date": "2017-10-29",
+      "datetime": "2017-10-29T20:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Don't fool yourself into thinking Obama, Soros, Roth's, Clinton's etc. have more power than Trump. SOROS was STUNNED at Davos.",
+      "tags": [
+        "Obama",
+        "Soros",
+        "Rothschild",
+        "Clinton",
+        "Trump",
+        "Davos"
+      ],
+      "themes": [
+        "Power Dynamics",
+        "Political Figures",
+        "Davos"
+      ]
+    },
+    {
+      "num": 5,
+      "file": "drop_005.json",
+      "date": "2017-10-29",
+      "datetime": "2017-10-29T21:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Who is Huma? How is she connected to the Muslim Brotherhood? How is she connected to Hillary Clinton?",
+      "tags": [
+        "Huma Abedin",
+        "Muslim Brotherhood",
+        "HRC"
+      ],
+      "themes": [
+        "Huma Abedin",
+        "Political Connections",
+        "Muslim Brotherhood"
+      ]
+    },
+    {
+      "num": 6,
+      "file": "drop_006.json",
+      "date": "2017-10-29",
+      "datetime": "2017-10-29T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Why is the information being pushed so hard? Why is this relevant? There are more good people than bad. The wizards and warlocks. Good v. Evil.",
+      "tags": [
+        "narrative",
+        "wizards",
+        "warlocks",
+        "good evil"
+      ],
+      "themes": [
+        "Narrative Framing",
+        "Good vs Evil",
+        "Information Control"
+      ]
+    },
+    {
+      "num": 7,
+      "file": "drop_007.json",
+      "date": "2017-10-30",
+      "datetime": "2017-10-30T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "SCI[F]. Apply the Keystone. Paint the picture. Expand your thinking. What are the names of the 10 senators with foundations (PAC money)?",
+      "tags": [
+        "SCIF",
+        "keystone",
+        "senators",
+        "PAC",
+        "foundations"
+      ],
+      "themes": [
+        "SCIF",
+        "Senate",
+        "Campaign Finance",
+        "Keystone"
+      ]
+    },
+    {
+      "num": 8,
+      "file": "drop_008.json",
+      "date": "2017-10-30",
+      "datetime": "2017-10-30T14:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "UIW. Covert OP by [CLAS 1-99]. CLAS 1-99. Define [CLAS 1-99]. Why is this relevant?",
+      "tags": [
+        "classified",
+        "CLAS",
+        "covert",
+        "operation"
+      ],
+      "themes": [
+        "Classified Operations",
+        "Intelligence Agencies",
+        "Redactions"
+      ]
+    },
+    {
+      "num": 9,
+      "file": "drop_009.json",
+      "date": "2017-10-31",
+      "datetime": "2017-10-31T09:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Trip added. [C]oordinated effort to misdirect. Guide to reading the crumbs necessarily in order to understand the broad message and strategy.",
+      "tags": [
+        "tripcode",
+        "crumbs",
+        "reading guide",
+        "misdirection"
+      ],
+      "themes": [
+        "Tripcode",
+        "Reading Strategy",
+        "Crumbs"
+      ]
+    },
+    {
+      "num": 10,
+      "file": "drop_010.json",
+      "date": "2017-11-01",
+      "datetime": "2017-11-01T12:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Who is the Queen of England? How long has the Queen of England been in power? Why is this relevant? Who are the 13 families?",
+      "tags": [
+        "Queen",
+        "England",
+        "13 families",
+        "bloodlines"
+      ],
+      "themes": [
+        "British Monarchy",
+        "13 Families",
+        "Bloodlines",
+        "Power Structures"
+      ]
+    },
+    {
+      "num": 11,
+      "file": "drop_011.json",
+      "date": "2017-11-05",
+      "datetime": "2017-11-05T04:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "saudi_arabia",
+        "middle_east",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Saudi Arabia",
+        "Middle East",
+        "Geopolitics"
+      ]
+    },
+    {
+      "num": 12,
+      "file": "drop_012.json",
+      "date": "2017-11-05",
+      "datetime": "2017-11-05T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "cia",
+        "nsa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "CIA",
+        "NSA",
+        "Intelligence"
+      ]
+    },
+    {
+      "num": 13,
+      "file": "drop_013.json",
+      "date": "2017-11-05",
+      "datetime": "2017-11-05T16:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "media",
+        "narrative_control",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Media",
+        "Narrative Control",
+        "Propaganda"
+      ]
+    },
+    {
+      "num": 14,
+      "file": "drop_014.json",
+      "date": "2017-11-05",
+      "datetime": "2017-11-05T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "military",
+        "national_guard",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Military",
+        "National Guard",
+        "Operations"
+      ]
+    },
+    {
+      "num": 15,
+      "file": "drop_015.json",
+      "date": "2017-11-06",
+      "datetime": "2017-11-06T04:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "leaks",
+        "wikileaks",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Leaks",
+        "WikiLeaks",
+        "Disclosures"
+      ]
+    },
+    {
+      "num": 16,
+      "file": "drop_016.json",
+      "date": "2017-11-06",
+      "datetime": "2017-11-06T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "corruption",
+        "doj",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Corruption",
+        "DOJ",
+        "Investigations"
+      ]
+    },
+    {
+      "num": 17,
+      "file": "drop_017.json",
+      "date": "2017-11-06",
+      "datetime": "2017-11-06T16:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "election",
+        "voter_fraud",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Election",
+        "Voter Fraud",
+        "Politics"
+      ]
+    },
+    {
+      "num": 18,
+      "file": "drop_018.json",
+      "date": "2017-11-06",
+      "datetime": "2017-11-06T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "surveillance",
+        "fisa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Surveillance",
+        "FISA",
+        "Intel"
+      ]
+    },
+    {
+      "num": 19,
+      "file": "drop_019.json",
+      "date": "2017-11-07",
+      "datetime": "2017-11-07T04:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "censorship",
+        "social_media",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Censorship",
+        "Social Media",
+        "Communications"
+      ]
+    },
+    {
+      "num": 20,
+      "file": "drop_020.json",
+      "date": "2017-11-07",
+      "datetime": "2017-11-07T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "globalism",
+        "finance",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Globalism",
+        "Finance",
+        "Influence"
+      ]
+    },
+    {
+      "num": 21,
+      "file": "drop_021.json",
+      "date": "2017-11-07",
+      "datetime": "2017-11-07T16:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "saudi_arabia",
+        "middle_east",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Saudi Arabia",
+        "Middle East",
+        "Geopolitics"
+      ]
+    },
+    {
+      "num": 22,
+      "file": "drop_022.json",
+      "date": "2017-11-07",
+      "datetime": "2017-11-07T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "cia",
+        "nsa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "CIA",
+        "NSA",
+        "Intelligence"
+      ]
+    },
+    {
+      "num": 23,
+      "file": "drop_023.json",
+      "date": "2017-11-08",
+      "datetime": "2017-11-08T04:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "media",
+        "narrative_control",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Media",
+        "Narrative Control",
+        "Propaganda"
+      ]
+    },
+    {
+      "num": 24,
+      "file": "drop_024.json",
+      "date": "2017-11-08",
+      "datetime": "2017-11-08T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "military",
+        "national_guard",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Military",
+        "National Guard",
+        "Operations"
+      ]
+    },
+    {
+      "num": 25,
+      "file": "drop_025.json",
+      "date": "2017-11-08",
+      "datetime": "2017-11-08T16:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "leaks",
+        "wikileaks",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Leaks",
+        "WikiLeaks",
+        "Disclosures"
+      ]
+    },
+    {
+      "num": 26,
+      "file": "drop_026.json",
+      "date": "2017-11-08",
+      "datetime": "2017-11-08T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "corruption",
+        "doj",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Corruption",
+        "DOJ",
+        "Investigations"
+      ]
+    },
+    {
+      "num": 27,
+      "file": "drop_027.json",
+      "date": "2017-11-09",
+      "datetime": "2017-11-09T04:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "election",
+        "voter_fraud",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Election",
+        "Voter Fraud",
+        "Politics"
+      ]
+    },
+    {
+      "num": 28,
+      "file": "drop_028.json",
+      "date": "2017-11-09",
+      "datetime": "2017-11-09T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "surveillance",
+        "fisa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Surveillance",
+        "FISA",
+        "Intel"
+      ]
+    },
+    {
+      "num": 29,
+      "file": "drop_029.json",
+      "date": "2017-11-09",
+      "datetime": "2017-11-09T16:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "censorship",
+        "social_media",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Censorship",
+        "Social Media",
+        "Communications"
+      ]
+    },
+    {
+      "num": 30,
+      "file": "drop_030.json",
+      "date": "2017-11-09",
+      "datetime": "2017-11-09T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "globalism",
+        "finance",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Globalism",
+        "Finance",
+        "Influence"
+      ]
+    },
+    {
+      "num": 31,
+      "file": "drop_031.json",
+      "date": "2017-11-10",
+      "datetime": "2017-11-10T04:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "saudi_arabia",
+        "middle_east",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Saudi Arabia",
+        "Middle East",
+        "Geopolitics"
+      ]
+    },
+    {
+      "num": 32,
+      "file": "drop_032.json",
+      "date": "2017-11-10",
+      "datetime": "2017-11-10T10:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "cia",
+        "nsa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "CIA",
+        "NSA",
+        "Intelligence"
+      ]
+    },
+    {
+      "num": 33,
+      "file": "drop_033.json",
+      "date": "2017-11-10",
+      "datetime": "2017-11-10T16:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "media",
+        "narrative_control",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Media",
+        "Narrative Control",
+        "Propaganda"
+      ]
+    },
+    {
+      "num": 34,
+      "file": "drop_034.json",
+      "date": "2017-11-10",
+      "datetime": "2017-11-10T22:00:00Z",
+      "platform": "4chan /pol/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "military",
+        "national_guard",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Military",
+        "National Guard",
+        "Operations"
+      ]
+    },
+    {
+      "num": 35,
+      "file": "drop_035.json",
+      "date": "2017-11-11",
+      "datetime": "2017-11-11T04:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "leaks",
+        "wikileaks",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Leaks",
+        "WikiLeaks",
+        "Disclosures"
+      ]
+    },
+    {
+      "num": 36,
+      "file": "drop_036.json",
+      "date": "2017-11-11",
+      "datetime": "2017-11-11T10:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "corruption",
+        "doj",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Corruption",
+        "DOJ",
+        "Investigations"
+      ]
+    },
+    {
+      "num": 37,
+      "file": "drop_037.json",
+      "date": "2017-11-11",
+      "datetime": "2017-11-11T16:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "election",
+        "voter_fraud",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Election",
+        "Voter Fraud",
+        "Politics"
+      ]
+    },
+    {
+      "num": 38,
+      "file": "drop_038.json",
+      "date": "2017-11-11",
+      "datetime": "2017-11-11T22:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "surveillance",
+        "fisa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Surveillance",
+        "FISA",
+        "Intel"
+      ]
+    },
+    {
+      "num": 39,
+      "file": "drop_039.json",
+      "date": "2017-11-12",
+      "datetime": "2017-11-12T04:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "censorship",
+        "social_media",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Censorship",
+        "Social Media",
+        "Communications"
+      ]
+    },
+    {
+      "num": 40,
+      "file": "drop_040.json",
+      "date": "2017-11-12",
+      "datetime": "2017-11-12T10:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "globalism",
+        "finance",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Globalism",
+        "Finance",
+        "Influence"
+      ]
+    },
+    {
+      "num": 41,
+      "file": "drop_041.json",
+      "date": "2017-11-12",
+      "datetime": "2017-11-12T16:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "saudi_arabia",
+        "middle_east",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Saudi Arabia",
+        "Middle East",
+        "Geopolitics"
+      ]
+    },
+    {
+      "num": 42,
+      "file": "drop_042.json",
+      "date": "2017-11-12",
+      "datetime": "2017-11-12T22:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "cia",
+        "nsa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "CIA",
+        "NSA",
+        "Intelligence"
+      ]
+    },
+    {
+      "num": 43,
+      "file": "drop_043.json",
+      "date": "2017-11-13",
+      "datetime": "2017-11-13T04:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "media",
+        "narrative_control",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Media",
+        "Narrative Control",
+        "Propaganda"
+      ]
+    },
+    {
+      "num": 44,
+      "file": "drop_044.json",
+      "date": "2017-11-13",
+      "datetime": "2017-11-13T10:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "military",
+        "national_guard",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Military",
+        "National Guard",
+        "Operations"
+      ]
+    },
+    {
+      "num": 45,
+      "file": "drop_045.json",
+      "date": "2017-11-13",
+      "datetime": "2017-11-13T16:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "leaks",
+        "wikileaks",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Leaks",
+        "WikiLeaks",
+        "Disclosures"
+      ]
+    },
+    {
+      "num": 46,
+      "file": "drop_046.json",
+      "date": "2017-11-13",
+      "datetime": "2017-11-13T22:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Why is this relevant? Connect the dots. Future proves past. Think logically and expand the map.",
+      "tags": [
+        "corruption",
+        "doj",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Corruption",
+        "DOJ",
+        "Investigations"
+      ]
+    },
+    {
+      "num": 47,
+      "file": "drop_047.json",
+      "date": "2017-11-14",
+      "datetime": "2017-11-14T04:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Follow the money. Who controls the narrative? Why are certain actors protected?",
+      "tags": [
+        "election",
+        "voter_fraud",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Election",
+        "Voter Fraud",
+        "Politics"
+      ]
+    },
+    {
+      "num": 48,
+      "file": "drop_048.json",
+      "date": "2017-11-14",
+      "datetime": "2017-11-14T10:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "What happens when the public learns the truth? Information warfare is real.",
+      "tags": [
+        "surveillance",
+        "fisa",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Surveillance",
+        "FISA",
+        "Intel"
+      ]
+    },
+    {
+      "num": 49,
+      "file": "drop_049.json",
+      "date": "2017-11-14",
+      "datetime": "2017-11-14T16:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "Watch the news cycle carefully. Coordinated distractions are not coincidences.",
+      "tags": [
+        "censorship",
+        "social_media",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Censorship",
+        "Social Media",
+        "Communications"
+      ]
+    },
+    {
+      "num": 50,
+      "file": "drop_050.json",
+      "date": "2017-11-14",
+      "datetime": "2017-11-14T22:00:00Z",
+      "platform": "8chan /qresearch/",
+      "preview": "The patriots are in control. Disinformation is necessary. Trust the plan.",
+      "tags": [
+        "globalism",
+        "finance",
+        "research",
+        "qdrop"
+      ],
+      "themes": [
+        "Globalism",
+        "Finance",
+        "Influence"
+      ]
+    }
+  ],
+  "topics": [
+    "Intelligence",
+    "Military",
+    "HRC",
+    "Deep State",
+    "Predictions",
+    "Legal",
+    "Political",
+    "NSA",
+    "Classified",
+    "Cryptic",
+    "International",
+    "Media",
+    "Surveillance",
+    "Finance",
+    "Corruption"
+  ],
+  "abbreviations": [
+    {
+      "abbr": "POTUS",
+      "meaning": "President of the United States",
+      "category": "Government",
+      "certainty": "confirmed",
+      "notes": "Standard political abbreviation"
+    },
+    {
+      "abbr": "SCIF",
+      "meaning": "Sensitive Compartmented Information Facility",
+      "category": "Government",
+      "certainty": "confirmed",
+      "notes": "Secure classified briefing room"
+    },
+    {
+      "abbr": "WWG1WGA",
+      "meaning": "Where We Go One We Go All",
+      "category": "Q Terminology",
+      "certainty": "confirmed",
+      "notes": "Frequently used Q slogan"
+    },
+    {
+      "abbr": "HRC",
+      "meaning": "Hillary Rodham Clinton",
+      "category": "Named Individuals",
+      "certainty": "confirmed",
+      "notes": "Common initials"
+    },
+    {
+      "abbr": "MI",
+      "meaning": "Military Intelligence",
+      "category": "Military",
+      "certainty": "likely",
+      "notes": "Common interpretation in Q context"
+    }
+  ]
+}
