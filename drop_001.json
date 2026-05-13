@@ -1,0 +1,67 @@
+{
+  "drop_number": 1,
+  "datetime": "2017-10-28T16:55:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Predicted Clinton Arrest and National Guard Reference",
+  "summary": "The first Q drop claimed Hillary Clinton would be arrested and suggested National Guard mobilization. The prediction did not occur as stated, making it one of the earliest falsifiable Q claims.",
+  "raw_text": "HRC extradition already in motion effective yesterday with several countries in case of cross border run. Passport approved to be flagged effective 10/30 @ 12:01am. Expect massive riots organized in defiance and others fleeing the US. US M's will conduct the operation while NG activated. Proof check: Locate a NG member and ask if activated for duty 10/30 across most major cities. Q",
+  "themes": [
+    "Hillary Clinton",
+    "National Guard",
+    "Military operations",
+    "Predictions"
+  ],
+  "related_drops": [
+    2,
+    3,
+    4
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Archive of Q drops and timestamps",
+      "visual": ""
+    },
+    {
+      "label": "Reuters Fact Check",
+      "url": "https://www.reuters.com/article/world/fact-check-qanon-idUSKBN23F2QQ/",
+      "note": "Background on failed QAnon predictions",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "HRC extradition already in motion effective yesterday",
+      "fact": "No public evidence or official documentation showed Hillary Clinton was being extradited in October 2017.",
+      "theory": "Q followers interpreted this as evidence of sealed indictments and a covert operation against Clinton.",
+      "context": "The statement appeared shortly before public awareness of QAnon rapidly expanded online.",
+      "questions": "What official extradition request or court filing would verify this claim? Was any evidence produced later?",
+      "confidence": 5,
+      "Deltas": "2018-2025: No verified arrest or extradition of Hillary Clinton occurred on matching yearly deltas.",
+      "sources": [
+        {
+          "label": "Reuters Fact Check",
+          "url": "https://www.reuters.com/article/world/fact-check-qanon-idUSKBN23F2QQ/"
+        }
+      ]
+    },
+    {
+      "text": "NG activated",
+      "fact": "National Guard units regularly conduct exercises and emergency readiness operations, but no evidence confirmed a nationwide activation tied to Clinton.",
+      "theory": "Supporters believed military preparations were connected to anticipated unrest and mass arrests.",
+      "context": "NG is commonly interpreted as National Guard in early Q drops.",
+      "questions": "Were there any unusual National Guard mobilizations documented for October 30, 2017?",
+      "confidence": 30,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "National Guard Official Site",
+          "url": "https://www.nationalguard.mil/"
+        }
+      ]
+    }
+  ]
+}
