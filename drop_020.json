@@ -1,0 +1,45 @@
+{
+  "drop_number": 20,
+  "datetime": "2017-10-28T22:20:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Questions About Political Protection Networks",
+  "summary": "Drop #20 implied that political figures and institutions protected one another through hidden networks of influence.",
+  "raw_text": "Why are certain people protected?\nWho provides cover?\nWhy do investigations stall?\nWho benefits from corruption?\nQ",
+  "themes": [
+    "Corruption",
+    "Political protection",
+    "Investigations"
+  ],
+  "related_drops": [
+    14,
+    16,
+    19
+  ],
+  "sources": [
+    {
+      "label": "DOJ Official Site",
+      "url": "https://www.justice.gov/",
+      "note": "Department of Justice information",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Why do investigations stall?",
+      "fact": "Investigations can slow or end for legal, procedural, political, evidentiary, or resource-related reasons.",
+      "theory": "Q followers viewed stalled investigations as evidence of institutional corruption and protection networks.",
+      "context": "High-profile investigations often become politically contested and publicly scrutinized.",
+      "questions": "What evidence distinguishes institutional corruption from ordinary prosecutorial discretion or insufficient evidence?",
+      "confidence": 50,
+      "Deltas": "Nothing Found",
+      "sources": [
+        {
+          "label": "Congressional Research Service",
+          "url": "https://crsreports.congress.gov/"
+        }
+      ]
+    }
+  ]
+}

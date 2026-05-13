@@ -1,0 +1,49 @@
+{
+  "drop_number": 16,
+  "datetime": "2017-10-28T21:18:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "References to Sealed Indictments",
+  "summary": "Drop #16 referenced sealed indictments and implied that major legal actions were pending. Sealed indictment claims became a recurring Q narrative.",
+  "raw_text": "Why are there so many sealed indictments?\nWhy is this relevant?\nWho is being protected?\nWho is being targeted?\nQ",
+  "themes": [
+    "Sealed indictments",
+    "DOJ",
+    "Legal proceedings"
+  ],
+  "related_drops": [
+    1,
+    2,
+    14
+  ],
+  "sources": [
+    {
+      "label": "U.S. Courts",
+      "url": "https://www.uscourts.gov/",
+      "note": "Federal court procedures and sealed filings",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Why are there so many sealed indictments?",
+      "fact": "Federal courts routinely issue sealed indictments for operational and legal reasons. Viral claims that unusually high indictment counts proved mass arrests were not substantiated by official evidence.",
+      "theory": "Q followers believed sealed indictments were connected to future arrests of political elites.",
+      "context": "Sealed filings are a normal part of the judicial system and are not inherently evidence of conspiracy investigations.",
+      "questions": "What baseline number of sealed indictments is typical in federal courts? Did public data support claims of unprecedented activity?",
+      "confidence": 35,
+      "Deltas": "2018-2025: Claims about sealed indictments continued circulating online without confirmation of mass coordinated arrests.",
+      "sources": [
+        {
+          "label": "U.S. Courts",
+          "url": "https://www.uscourts.gov/"
+        },
+        {
+          "label": "Reuters Fact Check",
+          "url": "https://www.reuters.com/"
+        }
+      ]
+    }
+  ]
+}

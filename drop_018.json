@@ -1,0 +1,44 @@
+{
+  "drop_number": 18,
+  "datetime": "2017-10-28T21:47:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "Think Mirror Concept Introduction",
+  "summary": "Drop #18 referenced the phrase 'Think mirror,' one of Q's recurring interpretive frameworks. The phrase was never consistently defined.",
+  "raw_text": "Think mirror.\nWhy is this important?\nHow do you hide the truth in plain sight?\nQ",
+  "themes": [
+    "Think mirror",
+    "Interpretive methods",
+    "Symbolism"
+  ],
+  "related_drops": [
+    8,
+    9
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts Archive",
+      "url": "https://qalerts.app/",
+      "note": "Archive of Q posts",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Think mirror.",
+      "fact": "Q did not provide a stable operational definition for the phrase.",
+      "theory": "Followers interpreted it to mean reverse names, invert narratives, or expect opposites of official statements.",
+      "context": "Flexible interpretive systems increase the ability to match future events to ambiguous earlier statements.",
+      "questions": "Can a theory be falsified if contradictory evidence can always be reframed through inversion?",
+      "confidence": 15,
+      "Deltas": "2018-2025: Phrase repeatedly referenced by Q communities during political and media events.",
+      "sources": [
+        {
+          "label": "Brookings Institution QAnon History",
+          "url": "https://www.brookings.edu/articles/history-of-qanon/"
+        }
+      ]
+    }
+  ]
+}

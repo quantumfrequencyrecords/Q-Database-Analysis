@@ -1,0 +1,45 @@
+{
+  "drop_number": 19,
+  "datetime": "2017-10-28T22:03:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "!UW.yye1fxo",
+  "title": "References to Information Warfare",
+  "summary": "Drop #19 described modern conflict in terms of information warfare and psychological influence rather than traditional military operations.",
+  "raw_text": "Why is information control important?\nWhy is propaganda effective?\nWho controls the flow of information?\nQ",
+  "themes": [
+    "Information warfare",
+    "Propaganda",
+    "Media influence"
+  ],
+  "related_drops": [
+    4,
+    13,
+    17
+  ],
+  "sources": [
+    {
+      "label": "RAND Corporation",
+      "url": "https://www.rand.org/topics/disinformation.html",
+      "note": "Research on disinformation and propaganda",
+      "visual": ""
+    }
+  ],
+  "lines": [
+    {
+      "text": "Why is propaganda effective?",
+      "fact": "Governments, organizations, and media systems have historically used propaganda and persuasion techniques to influence public opinion.",
+      "theory": "Q followers interpreted the line as evidence of centralized manipulation by political and media elites.",
+      "context": "Modern information warfare includes state-sponsored disinformation, algorithmic amplification, and coordinated messaging campaigns.",
+      "questions": "What measurable evidence would demonstrate centralized coordination versus decentralized media incentives?",
+      "confidence": 65,
+      "Deltas": "2020-2025: Public concern over misinformation and algorithmic influence intensified globally.",
+      "sources": [
+        {
+          "label": "RAND Corporation",
+          "url": "https://www.rand.org/topics/disinformation.html"
+        }
+      ]
+    }
+  ]
+}
