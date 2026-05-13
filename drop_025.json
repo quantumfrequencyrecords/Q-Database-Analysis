@@ -1,0 +1,55 @@
+{
+  "drop_number": 25,
+  "datetime": "2017-11-01T00:00:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Unknown / Anonymous ID grTMpzrL",
+  "title": "Pelosi and McCain reference with prediction framing",
+  "summary": "Drop 25 references Nancy Pelosi and Senator John McCain while promising forthcoming 'proof' beginning on November 3, 2017. The post reinforces the idea that Q possessed insider access to high-level information.",
+  "raw_text": "Follow up to last post. Return to comments re: Pelosi and John M (some of us refuse to say his last name for a reason). This all has meaning - everything stated. Big picture stuff - few positions allow for this direct knowledge. Proof to begin 11.3. We all sincerely appreciate the work you do. Keep up the good fight. The flow of information is vital. God bless.",
+  "themes": [
+    "military",
+    "intelligence",
+    "politics",
+    "narrative framing"
+  ],
+  "related_drops": [
+    24,
+    26
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts archive",
+      "url": "https://qalerts.app/",
+      "note": "Primary archive containing original Q drop text and timestamps",
+      "visual": "https://qalerts.app/"
+    },
+    {
+      "label": "Intel Drops abbreviations reference",
+      "url": "https://inteldrops.com/keys/",
+      "note": "Community-maintained abbreviation and terminology reference",
+      "visual": "https://inteldrops.com/keys/"
+    }
+  ],
+  "lines": [
+    {
+      "text": "Follow up to last post. Return to comments re: Pelosi and John M (some of us refuse to say his last name for a reason). This all has meaning - everything stated. Big picture stuff - few positions allow for this direct knowledge. Proof to begin 11.3. We all sincerely appreciate the work you do. Keep ",
+      "fact": "The drop was publicly posted to 4chan /pol/ on November 1, 2017 and archived by QAlerts and related archives. Several claims in the post are speculative and not independently verified.",
+      "theory": "Q community researchers interpreted this drop as evidence of a coordinated military intelligence operation occurring behind the scenes within the US government.",
+      "context": "The drops were posted during the first year of the Trump administration and shortly after public discussion surrounding sealed indictments, intelligence agencies, and political polarization.",
+      "questions": "What evidence independently confirms the operational claims? Are the references intentionally vague in ways that make retroactive interpretation possible? What specific evidence would falsify the implied narrative?",
+      "confidence": 35,
+      "Deltas": "No directly verifiable yearly delta event conclusively tied to this drop was identified through mainstream archival review. Community interpretations frequently relied on post-hoc matching.",
+      "sources": [
+        {
+          "label": "QAlerts",
+          "url": "https://qalerts.app/?n=25"
+        },
+        {
+          "label": "4plebs archive",
+          "url": "https://archive.4plebs.org/pol/"
+        }
+      ]
+    }
+  ]
+}

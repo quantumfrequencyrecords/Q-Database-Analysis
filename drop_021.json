@@ -1,0 +1,55 @@
+{
+  "drop_number": 21,
+  "datetime": "2017-11-01T00:00:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Unknown / Anonymous ID grTMpzrL",
+  "title": "Operational reassurance and anti-panic messaging",
+  "summary": "Drop 21 frames prior Q posts as intentional information leaks and claims coordinated opposition or 'shilling' had already begun. The post implies an ongoing covert operation while encouraging readers to connect earlier clues into a larger narrative.",
+  "raw_text": "I\u2019ve dumped some crumbs like this over the weekend which started the intense shilling. At this point we are far enough along you can paint the picture without risk of jeopardizing the operation.",
+  "themes": [
+    "military",
+    "intelligence",
+    "politics",
+    "narrative framing"
+  ],
+  "related_drops": [
+    20,
+    22
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts archive",
+      "url": "https://qalerts.app/",
+      "note": "Primary archive containing original Q drop text and timestamps",
+      "visual": "https://qalerts.app/"
+    },
+    {
+      "label": "Intel Drops abbreviations reference",
+      "url": "https://inteldrops.com/keys/",
+      "note": "Community-maintained abbreviation and terminology reference",
+      "visual": "https://inteldrops.com/keys/"
+    }
+  ],
+  "lines": [
+    {
+      "text": "I\u2019ve dumped some crumbs like this over the weekend which started the intense shilling. At this point we are far enough along you can paint the picture without risk of jeopardizing the operation.",
+      "fact": "The drop was publicly posted to 4chan /pol/ on November 1, 2017 and archived by QAlerts and related archives. Several claims in the post are speculative and not independently verified.",
+      "theory": "Q community researchers interpreted this drop as evidence of a coordinated military intelligence operation occurring behind the scenes within the US government.",
+      "context": "The drops were posted during the first year of the Trump administration and shortly after public discussion surrounding sealed indictments, intelligence agencies, and political polarization.",
+      "questions": "What evidence independently confirms the operational claims? Are the references intentionally vague in ways that make retroactive interpretation possible? What specific evidence would falsify the implied narrative?",
+      "confidence": 35,
+      "Deltas": "No directly verifiable yearly delta event conclusively tied to this drop was identified through mainstream archival review. Community interpretations frequently relied on post-hoc matching.",
+      "sources": [
+        {
+          "label": "QAlerts",
+          "url": "https://qalerts.app/?n=21"
+        },
+        {
+          "label": "4plebs archive",
+          "url": "https://archive.4plebs.org/pol/"
+        }
+      ]
+    }
+  ]
+}

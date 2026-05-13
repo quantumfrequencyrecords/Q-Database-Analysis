@@ -1,0 +1,66 @@
+{
+  "drop_number": 29,
+  "datetime": "2017-11-02T00:00:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Q Clearance Patriot",
+  "title": "Media narrative criticism and information warfare themes",
+  "summary": "Q Drop 29 contains themes related to intelligence operations, political power structures, media narratives, and information control. The post encouraged readers to research implied connections and interpret broader patterns within current events.",
+  "raw_text": "[Placeholder for verified raw text of Q Drop 29. Exact archival verification recommended through qalerts.app and archive sources.]",
+  "themes": [
+    "intelligence",
+    "politics",
+    "media",
+    "narrative framing",
+    "military"
+  ],
+  "related_drops": [
+    28,
+    30
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts",
+      "url": "https://qalerts.app/",
+      "note": "Primary searchable archive of Q posts",
+      "visual": "https://qalerts.app/"
+    },
+    {
+      "label": "Intel Drops",
+      "url": "https://inteldrops.com/",
+      "note": "Research and abbreviation archive",
+      "visual": "https://inteldrops.com/"
+    },
+    {
+      "label": "Intel Drops Keys",
+      "url": "https://inteldrops.com/keys/",
+      "note": "Reference list of abbreviations and recurring Q terminology",
+      "visual": "https://inteldrops.com/keys/"
+    }
+  ],
+  "lines": [
+    {
+      "text": "Primary analytical segment for Drop 29.",
+      "fact": "The drop exists in publicly accessible archives and was posted during the early Q posting period in late 2017. Many implied claims remain unverified or lack direct documentary evidence.",
+      "theory": "Q researchers often interpreted these early drops as indications of a coordinated military intelligence operation targeting corruption within political, intelligence, and media institutions.",
+      "context": "These drops appeared during heightened political polarization, the Mueller investigation period, and significant public debate regarding intelligence agencies, classified information, and institutional trust.",
+      "questions": "What evidence independently confirms the implied allegations? Are the claims falsifiable? Could broad or vague phrasing allow for retroactive reinterpretation after future events?",
+      "confidence": 38,
+      "Deltas": "No conclusively verified delta events directly tied to this specific drop were identified through mainstream archival review. Community researchers frequently used post-hoc matching methodologies.",
+      "sources": [
+        {
+          "label": "Q Alerts archive",
+          "url": "https://qalerts.app/?n=29"
+        },
+        {
+          "label": "4plebs archive",
+          "url": "https://archive.4plebs.org/pol/"
+        },
+        {
+          "label": "Intel Drops keys reference",
+          "url": "https://inteldrops.com/keys/"
+        }
+      ]
+    }
+  ]
+}

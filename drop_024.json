@@ -1,0 +1,55 @@
+{
+  "drop_number": 24,
+  "datetime": "2017-11-01T00:00:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Unknown / Anonymous ID grTMpzrL",
+  "title": "Political retirement pressure narrative",
+  "summary": "Drop 24 claims politicians announcing retirement were pressured into submission as part of a broader operation. Q frames the alleged effort as bipartisan and tied to undisclosed leverage or investigations.",
+  "raw_text": "Any person making statements they will not be seeking re-election was put in submission. For the betterment of the country not all will be prosecuted and all will do as told. You will see more of this occur (not normal yet disregarded) and even on the D side.",
+  "themes": [
+    "military",
+    "intelligence",
+    "politics",
+    "narrative framing"
+  ],
+  "related_drops": [
+    23,
+    25
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts archive",
+      "url": "https://qalerts.app/",
+      "note": "Primary archive containing original Q drop text and timestamps",
+      "visual": "https://qalerts.app/"
+    },
+    {
+      "label": "Intel Drops abbreviations reference",
+      "url": "https://inteldrops.com/keys/",
+      "note": "Community-maintained abbreviation and terminology reference",
+      "visual": "https://inteldrops.com/keys/"
+    }
+  ],
+  "lines": [
+    {
+      "text": "Any person making statements they will not be seeking re-election was put in submission. For the betterment of the country not all will be prosecuted and all will do as told. You will see more of this occur (not normal yet disregarded) and even on the D side.",
+      "fact": "The drop was publicly posted to 4chan /pol/ on November 1, 2017 and archived by QAlerts and related archives. Several claims in the post are speculative and not independently verified.",
+      "theory": "Q community researchers interpreted this drop as evidence of a coordinated military intelligence operation occurring behind the scenes within the US government.",
+      "context": "The drops were posted during the first year of the Trump administration and shortly after public discussion surrounding sealed indictments, intelligence agencies, and political polarization.",
+      "questions": "What evidence independently confirms the operational claims? Are the references intentionally vague in ways that make retroactive interpretation possible? What specific evidence would falsify the implied narrative?",
+      "confidence": 35,
+      "Deltas": "No directly verifiable yearly delta event conclusively tied to this drop was identified through mainstream archival review. Community interpretations frequently relied on post-hoc matching.",
+      "sources": [
+        {
+          "label": "QAlerts",
+          "url": "https://qalerts.app/?n=24"
+        },
+        {
+          "label": "4plebs archive",
+          "url": "https://archive.4plebs.org/pol/"
+        }
+      ]
+    }
+  ]
+}

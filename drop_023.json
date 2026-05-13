@@ -1,0 +1,55 @@
+{
+  "drop_number": 23,
+  "datetime": "2017-11-01T00:00:00-04:00",
+  "platform": "4chan /pol/",
+  "board": "/pol/",
+  "tripcode": "Unknown / Anonymous ID grTMpzrL",
+  "title": "Claims about intelligence agencies and executive authority",
+  "summary": "Drop 23 alleges intelligence agencies accumulated excessive power after 9/11 and implies the presidency could use military authority domestically to counter entrenched bureaucracies. The drop also references Trump administration appointments as evidence of control over federal agencies.",
+  "raw_text": "Note MI has the same SAPs as NSA, CIA etc as designated post 9-11. Why is this relevant? Who can be held hostage and controlled? CIA thinks its foreign offshore assets are strong enough to defend against the US executive (not accounting for military use on domestic soil). Why does the Constitution explicitly grant this authority to the President and what is it to prevent? They knew our agencies would grow in power so much so they could/can hold the executive hostage or engage with bad actors.\nTrump nominated someone new to direct every agency but one. He controls the top.",
+  "themes": [
+    "military",
+    "intelligence",
+    "politics",
+    "narrative framing"
+  ],
+  "related_drops": [
+    22,
+    24
+  ],
+  "sources": [
+    {
+      "label": "Q Alerts archive",
+      "url": "https://qalerts.app/",
+      "note": "Primary archive containing original Q drop text and timestamps",
+      "visual": "https://qalerts.app/"
+    },
+    {
+      "label": "Intel Drops abbreviations reference",
+      "url": "https://inteldrops.com/keys/",
+      "note": "Community-maintained abbreviation and terminology reference",
+      "visual": "https://inteldrops.com/keys/"
+    }
+  ],
+  "lines": [
+    {
+      "text": "Note MI has the same SAPs as NSA, CIA etc as designated post 9-11. Why is this relevant? Who can be held hostage and controlled? CIA thinks its foreign offshore assets are strong enough to defend against the US executive (not accounting for military use on domestic soil). Why does the Constitution e",
+      "fact": "The drop was publicly posted to 4chan /pol/ on November 1, 2017 and archived by QAlerts and related archives. Several claims in the post are speculative and not independently verified.",
+      "theory": "Q community researchers interpreted this drop as evidence of a coordinated military intelligence operation occurring behind the scenes within the US government.",
+      "context": "The drops were posted during the first year of the Trump administration and shortly after public discussion surrounding sealed indictments, intelligence agencies, and political polarization.",
+      "questions": "What evidence independently confirms the operational claims? Are the references intentionally vague in ways that make retroactive interpretation possible? What specific evidence would falsify the implied narrative?",
+      "confidence": 35,
+      "Deltas": "No directly verifiable yearly delta event conclusively tied to this drop was identified through mainstream archival review. Community interpretations frequently relied on post-hoc matching.",
+      "sources": [
+        {
+          "label": "QAlerts",
+          "url": "https://qalerts.app/?n=23"
+        },
+        {
+          "label": "4plebs archive",
+          "url": "https://archive.4plebs.org/pol/"
+        }
+      ]
+    }
+  ]
+}
